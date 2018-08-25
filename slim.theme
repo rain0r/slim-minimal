@@ -21,9 +21,9 @@ input_color		#ffffff
 
 username_font          	fixed:size=13:dpi=75
 username_color        	#eeeeee
-username_x              125
+username_x              100
 username_y              90
-password_x              125
+password_x              100
 password_y              90
 
 username_msg            username:
